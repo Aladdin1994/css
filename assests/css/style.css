@@ -1,0 +1,80 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cv{
+    text-align: center;
+    font:500 24px bold;
+}
+.name{
+    text-align: center;
+}
+.science{
+    text-align: center;
+}
+.line1{
+    background-color: green;
+    height: 5px;
+    
+     width: 850px;
+     padding-right: 100%;
+     
+    border: none;}
+
+/* .contact{
+    border: 2px solid  rgb(18, 240, 29);
+} */
+
+
+ /* .image{
+    
+    background-image: url('/assests/img/images.png');
+   
+    height:fit-content;
+    width: max-content;
+   
+   margin-right: auto
+   
+
+}  */
+
+.line2{
+    background-color: green;
+    height: 5px;
+    
+     width: 850px;
+     padding-right: 100%;
+     
+    border: none;
+}
+.order{
+    padding-left: 0.5cm;
+    /* border: 2px solid  rgb(18, 240, 29); */
+    
+}
+/* .job{
+    border: 2px solid  rgb(18, 240, 29);
+}  */
+
+.line3{
+    background-color: green;
+    height: 5px;
+    
+     width: 850px;
+     padding-right: 100%;
+     padding-left: 200vi;
+    border: none;
+
+}
+.line4{
+    background-color: green;
+    height: 5px;
+    
+     width: 850px;
+     padding-right: 100%;
+     
+    border: none;
+}
